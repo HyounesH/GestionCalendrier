@@ -1,0 +1,6 @@
+projectKey=ma.ensa:azz
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/ma.ensa:azz
+ceTaskId=AWhS-9RVDTYzQAbghwha
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWhS-9RVDTYzQAbghwha

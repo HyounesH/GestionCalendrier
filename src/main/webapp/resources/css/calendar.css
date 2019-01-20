@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.calendar-table {
+	width:100%;
+	height: calc(100vh - 128px);
+}
+.calendar-table td{
+	padding: 10px;
+	border:1px solid #ccc;
+	vertical-align: top;
+	width:14.29%;
+}
+.calendar-table-6weeks td{
+	height: 16.66%;
+}
